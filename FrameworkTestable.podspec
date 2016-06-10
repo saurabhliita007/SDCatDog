@@ -16,6 +16,7 @@ s.source            = {
 :git => 'https://github.com/saurabhliita007/SDCatDog.git',
 :tag => 'v1.0.0'
 }
+s.platform = :ios, '5.0',
 s.source_files      = 'FrameworkTestable/*.{m,h}'
 s.requires_arc      = true
 
